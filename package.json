@@ -1,0 +1,20 @@
+{
+  "name": "bi556lockchain-crypto-js",
+  "version": "1.0.0", 
+  "description": "This package provides a basic implementation of a blockchain and cryptography functionalities in JavaScript.",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nikushkin706/bi556lockchain-crypto-js.git"
+  },
+  "keywords": [
+    "", 
+    "",
+    ""
+  ],
+  "author": "nikushkin706",
+  "license": "MIT"
+}
